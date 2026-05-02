@@ -10,7 +10,7 @@
 **EN:** The following diagram shows the step-by-step process of the swapping algorithm:  
 **TR:** Aşağıdaki diyagram, değiştirme algoritmasının adım adım sürecini göstermektedir:
 
-![Flowchart](ValueSwappingFlowchart.png)
+![Flowchart](ValueSwappingTool.png)
 
 ---
 
